@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactBook.Tests", "ContactBook.Tests\ContactBook.Tests.csproj", "{962A753B-87B5-4040-BDB7-9593C8BEAFEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactBook", "..\ContactBook\ContactBook\ContactBook.csproj", "{86851F00-9B1F-4F67-B8DE-BF3AC8B0B1DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962A753B-87B5-4040-BDB7-9593C8BEAFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962A753B-87B5-4040-BDB7-9593C8BEAFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962A753B-87B5-4040-BDB7-9593C8BEAFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962A753B-87B5-4040-BDB7-9593C8BEAFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86851F00-9B1F-4F67-B8DE-BF3AC8B0B1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86851F00-9B1F-4F67-B8DE-BF3AC8B0B1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86851F00-9B1F-4F67-B8DE-BF3AC8B0B1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86851F00-9B1F-4F67-B8DE-BF3AC8B0B1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF1394F-8E60-40D3-A790-CF251D46803D}
+	EndGlobalSection
+EndGlobal

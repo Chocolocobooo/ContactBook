@@ -1,0 +1,7 @@
+C:\Users\Choco\source\repos\ContactBook.Tests\ContactBook.Tests\obj\Debug\net8.0\ContactBook.Tests.csproj.AssemblyReference.cache
+C:\Users\Choco\source\repos\ContactBook.Tests\ContactBook.Tests\obj\Debug\net8.0\ContactBook.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Choco\source\repos\ContactBook.Tests\ContactBook.Tests\obj\Debug\net8.0\ContactBook.Tests.AssemblyInfoInputs.cache
+C:\Users\Choco\source\repos\ContactBook.Tests\ContactBook.Tests\obj\Debug\net8.0\ContactBook.Tests.AssemblyInfo.cs
+C:\Users\Choco\source\repos\ContactBook.Tests\ContactBook.Tests\obj\Debug\net8.0\ContactBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Choco\source\repos\ContactBook.Tests\ContactBook.Tests\obj\Debug\net8.0\ContactBook.Tests.sourcelink.json
+C:\Users\Choco\source\repos\ContactBook.Tests\ContactBook.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_ContactBook.Tests
